@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+.pytest_cache/
+build/
+dist/
+data/
+cache/
+logs/
+config/settings.json
+calibration/labels.csv
+calibration/report.json
+calibration/revision.html
+galeria_incluida/
+_keep_dist/
+
+# Solo código en el repositorio
+docs/
+calibration/
+
